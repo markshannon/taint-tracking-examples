@@ -26,7 +26,7 @@ def from_callee():
     a = has_source()
     SINK(a)
     
-def up_and_down()
+def up_and_down():
     has_sink(has_source())
 
 # Now with a sanitizer
